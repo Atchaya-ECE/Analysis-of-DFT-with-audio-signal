@@ -7,7 +7,7 @@
    PC installed with SCILAB/Python. 
 
 # PROGRAM:
-
+```
 clc; clear;
 
 // -------------------------
@@ -69,7 +69,7 @@ playsnd(x_filtered, fs);
 
 // Save filtered audio (optional)
 wavwrite(x_filtered, fs, "C:\\Users\\acer\\Downloads\\waptt_filtered.wav");
-
+```
 # OUTPUT: 
 <img width="757" height="571" alt="image" src="https://github.com/user-attachments/assets/753f84dc-b8d5-4fed-8b39-9ece7ef882e6" />
 
